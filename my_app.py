@@ -1,1 +1,1 @@
-include numpy
+print ("Hello world")
